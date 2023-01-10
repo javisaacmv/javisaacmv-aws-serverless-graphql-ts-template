@@ -1,0 +1,21 @@
+{
+  "name": "aws-docpro-users-gql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.3.0",
+    "@as-integrations/aws-lambda": "^1.1.0",
+    "graphql": "^16.6.0"
+  },
+  "devDependencies": {
+    "serverless-plugin-typescript": "^2.1.4",
+    "typescript": "^4.9.4"
+  }
+}
